@@ -1,7 +1,8 @@
 # Simple-Calculator-app
 
-This is the simple calculator app for beginners
+This is the simple calculator app for beginners.
 
+To get the files visit master brach
 
 -The app is supportive for all android versions.
 
