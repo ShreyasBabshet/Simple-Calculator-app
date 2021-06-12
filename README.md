@@ -2,7 +2,7 @@
 
 This is the simple calculator app for beginners.
 
-To get the files visit master brach
+# To get the files visit master branch
 
 -The app is supportive for all android versions.
 
